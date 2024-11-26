@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
 import emirlerData from "./kurandaki-emirler.json";
 import "./App.css";
+import Footer from "./Footer";
 
 interface Emir {
   emir: string;
@@ -37,6 +38,7 @@ function App() {
         <button onClick={getRandomEmir} className="random-button">
           Yeni Göster
         </button>
+        <Footer />
       </div>
     </div>
   );
