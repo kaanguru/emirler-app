@@ -1,826 +1,826 @@
 [
   {
-    "Emir ve Yasak": "Kur'an okuyun",
-    "Süre": "( Alak, 1 )"
+    "emir": "Kur'an okuyun",
+    "sure": "( Alak, 1 )"
   },
   {
-    "Emir ve Yasak": "Kulluk gorevlerinizi yerine getirmenizi engelleyenlere itaat etmeyin",
-    "Süre": "( Atak, 19 )"
+    "emir": "Kulluk gorevlerinizi yerine getirmenizi engelleyenlere itaat etmeyin",
+    "sure": "( Atak, 19 )"
   },
   {
-    "Emir ve Yasak": "Secde edin",
-    "Süre": "( Alak, 19 )"
+    "emir": "Secde edin",
+    "sure": "( Alak, 19 )"
   },
   {
-    "Emir ve Yasak": "İnkarcılara itaat etmeyin",
-    "Süre": "( Kalem, 8-15)"
+    "emir": "İnkarcılara itaat etmeyin",
+    "sure": "( Kalem, 8-15)"
   },
   {
-    "Emir ve Yasak": "Sabırlı olun",
-    "Süre": "( Kalem, 48 )"
+    "emir": "Sabırlı olun",
+    "sure": "( Kalem, 48 )"
   },
   {
-    "Emir ve Yasak": "Geceleri değerlendirin",
-    "Süre": "( Müzzemmil, 2-4)"
+    "emir": "Geceleri değerlendirin",
+    "sure": "( Müzzemmil, 2-4)"
   },
   {
-    "Emir ve Yasak": "Allah'ın adını anın ve tüm benliğinizle O'na yönelin , Yalnız Allah'a dayanıp güvenin",
-    "Süre": "( Müzzemmil, 9 )"
+    "emir": "Allah'ın adını anın ve tüm benliğinizle O'na yönelin , Yalnız Allah'a dayanıp güvenin",
+    "sure": "( Müzzemmil, 9 )"
   },
   {
-    "Emir ve Yasak": "Kur'an'dan kolayınıza geleni okuyun",
-    "Süre": "( Müzzemmil, 20 )"
+    "emir": "Kur'an'dan kolayınıza geleni okuyun",
+    "sure": "( Müzzemmil, 20 )"
   },
   {
-    "Emir ve Yasak": "Namaz kılın",
-    "Süre": "( Müzzemmil, 20 )"
+    "emir": "Namaz kılın",
+    "sure": "( Müzzemmil, 20 )"
   },
   {
-    "Emir ve Yasak": "Zekatı verin",
-    "Süre": "( Müzzemmil, 20 )"
+    "emir": "Zekatı verin",
+    "sure": "( Müzzemmil, 20 )"
   },
   {
-    "Emir ve Yasak": "Allah'tan af dileyin",
-    "Süre": "( Müzzemmil, 20 )"
+    "emir": "Allah'tan af dileyin",
+    "sure": "( Müzzemmil, 20 )"
   },
   {
-    "Emir ve Yasak": "İnsanları uyarın",
-    "Süre": "( Müddessir, 2 )"
+    "emir": "İnsanları uyarın",
+    "sure": "( Müddessir, 2 )"
   },
   {
-    "Emir ve Yasak": "Her türlü pislikten uzak durun",
-    "Süre": "( Müddessir, 4-5)"
+    "emir": "Her türlü pislikten uzak durun",
+    "sure": "( Müddessir, 4-5)"
   },
   {
-    "Emir ve Yasak": "Allah ile kul arasına girmeyin",
-    "Süre": "( Müddessir, 11 )"
+    "emir": "Allah ile kul arasına girmeyin",
+    "sure": "( Müddessir, 11 )"
   },
   {
-    "Emir ve Yasak": "Allah'ın adını yüceltin",
-    "Süre": "( A'la, 1 )"
+    "emir": "Allah'ın adını yüceltin",
+    "sure": "( A'la, 1 )"
   },
   {
-    "Emir ve Yasak": "Kur'an'la ögüt verin",
-    "Süre": "( A'la, 9 )"
+    "emir": "Kur'an'la ögüt verin",
+    "sure": "( A'la, 9 )"
   },
   {
-    "Emir ve Yasak": "Yetimi horlamayın Yetimin hakkına dokunmayın",
-    "Süre": "( Duha, 9 )"
+    "emir": "Yetimi horlamayın Yetimin hakkına dokunmayın",
+    "sure": "( Duha, 9 )"
   },
   {
-    "Emir ve Yasak": "Bir şey isteyeni hor görmeyin",
-    "Süre": "( Duha, 10 )"
+    "emir": "Bir şey isteyeni hor görmeyin",
+    "sure": "( Duha, 10 )"
   },
   {
-    "Emir ve Yasak": "Dilenciyi azarlamayın",
-    "Süre": "( Duha, 10 )"
+    "emir": "Dilenciyi azarlamayın",
+    "sure": "( Duha, 10 )"
   },
   {
-    "Emir ve Yasak": "Allah'ın nimetlerini dile getirin",
-    "Süre": "( Duha, 11 )"
+    "emir": "Allah'ın nimetlerini dile getirin",
+    "sure": "( Duha, 11 )"
   },
   {
-    "Emir ve Yasak": "Sürekli faaliyette olun, çalışkan olun",
-    "Süre": "( Inşirah, 7 )"
+    "emir": "Sürekli faaliyette olun, çalışkan olun",
+    "sure": "( Inşirah, 7 )"
   },
   {
-    "Emir ve Yasak": "Allah'ı anmaktan yüz çevirenden yüz çevirin",
-    "Süre": "( Necm, 29 )"
+    "emir": "Allah'ı anmaktan yüz çevirenden yüz çevirin",
+    "sure": "( Necm, 29 )"
   },
   {
-    "Emir ve Yasak": "Dünya hayatından başka bir şey istemeyenden yüz çevirin",
-    "Süre": "( Necm, 29 )"
+    "emir": "Dünya hayatından başka bir şey istemeyenden yüz çevirin",
+    "sure": "( Necm, 29 )"
   },
   {
-    "Emir ve Yasak": "Kendinizi temize çıkarmayın",
-    "Süre": "( Necm, 32 )"
+    "emir": "Kendinizi temize çıkarmayın",
+    "sure": "( Necm, 32 )"
   },
   {
-    "Emir ve Yasak": "Rabbinizden size indirilene uyun",
-    "Süre": "( A'raf, 3 )"
+    "emir": "Rabbinizden size indirilene uyun",
+    "sure": "( A'raf, 3 )"
   },
   {
-    "Emir ve Yasak": "Allah'tan başka dostlar edinip peşlerinden gitmeyin",
-    "Süre": "( A'raf, 3 )"
+    "emir": "Allah'tan başka dostlar edinip peşlerinden gitmeyin",
+    "sure": "( A'raf, 3 )"
   },
   {
-    "Emir ve Yasak": "Dini yalnız Allah'a özgüleyerek dua edin",
-    "Süre": "( A'raf, 29 )"
+    "emir": "Dini yalnız Allah'a özgüleyerek dua edin",
+    "sure": "( A'raf, 29 )"
   },
   {
-    "Emir ve Yasak": "İbadethanelerde temiz ve güzel giyinini",
-    "Süre": "( A'raf, 31 )"
+    "emir": "İbadethanelerde temiz ve güzel giyinini",
+    "sure": "( A'raf, 31 )"
   },
   {
-    "Emir ve Yasak": "Nimetlerden faydalanın ama israf etmeyin",
-    "Süre": "( A'raf, 31 )"
+    "emir": "Nimetlerden faydalanın ama israf etmeyin",
+    "sure": "( A'raf, 31 )"
   },
   {
-    "Emir ve Yasak": "Dualarınızı yalvara yakara, gizlice ve yapın",
-    "Süre": "( A'raf, 55 )"
+    "emir": "Dualarınızı yalvara yakara, gizlice ve yapın",
+    "sure": "( A'raf, 55 )"
   },
   {
-    "Emir ve Yasak": "Yeryüzünde bozgunculuk yapmayın",
-    "Süre": "( A'raf, 56 )"
+    "emir": "Yeryüzünde bozgunculuk yapmayın",
+    "sure": "( A'raf, 56 )"
   },
   {
-    "Emir ve Yasak": "Allah'a güzel isimleriyle dua edin",
-    "Süre": "( A'raf, 180 )"
+    "emir": "Allah'a güzel isimleriyle dua edin",
+    "sure": "( A'raf, 180 )"
   },
   {
-    "Emir ve Yasak": "Affetmeyi esas alın",
-    "Süre": "( A'raf, 199 )"
+    "emir": "Affetmeyi esas alın",
+    "sure": "( A'raf, 199 )"
   },
   {
-    "Emir ve Yasak": "İyiyi ve güzeli emredin",
-    "Süre": "( A'raf, 199 )"
+    "emir": "İyiyi ve güzeli emredin",
+    "sure": "( A'raf, 199 )"
   },
   {
-    "Emir ve Yasak": "Cahillerden yüz çevirin",
-    "Süre": "( A'raf, 199 )"
+    "emir": "Cahillerden yüz çevirin",
+    "sure": "( A'raf, 199 )"
   },
   {
-    "Emir ve Yasak": "Şeytandan Allah'a sığının",
-    "Süre": "( A'raf, 200 )"
+    "emir": "Şeytandan Allah'a sığının",
+    "sure": "( A'raf, 200 )"
   },
   {
-    "Emir ve Yasak": "Kur'an okunduğu zaman susun ve dinleyin",
-    "Süre": "( A'raf, 204 )"
+    "emir": "Kur'an okunduğu zaman susun ve dinleyin",
+    "sure": "( A'raf, 204 )"
   },
   {
-    "Emir ve Yasak": "Allah'ı benliğinizin içinden anın",
-    "Süre": "( A'raf, 205 )"
+    "emir": "Allah'ı benliğinizin içinden anın",
+    "sure": "( A'raf, 205 )"
   },
   {
-    "Emir ve Yasak": "Allah'ı sesinizi yükseltmeden anın",
-    "Süre": "( A'raf, 205 )"
+    "emir": "Allah'ı sesinizi yükseltmeden anın",
+    "sure": "( A'raf, 205 )"
   },
   {
-    "Emir ve Yasak": "Allah'tan başkasına dua etmeyin",
-    "Süre": "( Cin, 18 )"
+    "emir": "Allah'tan başkasına dua etmeyin",
+    "sure": "( Cin, 18 )"
   },
   {
-    "Emir ve Yasak": "Allah'ın üzerinizdeki nimetlerini anın",
-    "Süre": "( Fatir, 3 )"
+    "emir": "Allah'ın üzerinizdeki nimetlerini anın",
+    "sure": "( Fatir, 3 )"
   },
   {
-    "Emir ve Yasak": "Şeytanı düşman bilin",
-    "Süre": "( Fatir, 6 )"
+    "emir": "Şeytanı düşman bilin",
+    "sure": "( Fatir, 6 )"
   },
   {
-    "Emir ve Yasak": "Namaza sabırla devam edin",
-    "Süre": "( Taha, 132 )"
+    "emir": "Namaza sabırla devam edin",
+    "sure": "( Taha, 132 )"
   },
   {
-    "Emir ve Yasak": "Ailenize namazı emredin",
-    "Süre": "( Taha, 132 )"
+    "emir": "Ailenize namazı emredin",
+    "sure": "( Taha, 132 )"
   },
   {
-    "Emir ve Yasak": "Günahkarların nasıl bir sona uğradıklarına bakın",
-    "Süre": "( Nemi, 69 )"
+    "emir": "Günahkarların nasıl bir sona uğradıklarına bakın",
+    "sure": "( Nemi, 69 )"
   },
   {
-    "Emir ve Yasak": "Yeryüzünü gezip dolaşın",
-    "Süre": "( Nemi, 69 )"
+    "emir": "Yeryüzünü gezip dolaşın",
+    "sure": "( Nemi, 69 )"
   },
   {
-    "Emir ve Yasak": "Allah'tan başka hiçbir varlığa kulluk etmeyin",
-    "Süre": "( Isra, 23 )"
+    "emir": "Allah'tan başka hiçbir varlığa kulluk etmeyin",
+    "sure": "( Isra, 23 )"
   },
   {
-    "Emir ve Yasak": "Anne ve babaya çok iyi davranın",
-    "Süre": "( Isra, 23-24)"
+    "emir": "Anne ve babaya çok iyi davranın",
+    "sure": "( Isra, 23-24)"
   },
   {
-    "Emir ve Yasak": "Akrabaya yardımcı olun",
-    "Süre": "( Isra, 26 )"
+    "emir": "Akrabaya yardımcı olun",
+    "sure": "( Isra, 26 )"
   },
   {
-    "Emir ve Yasak": "Düşküne yardımcı olun",
-    "Süre": "( Isra, 26 )"
+    "emir": "Düşküne yardımcı olun",
+    "sure": "( Isra, 26 )"
   },
   {
-    "Emir ve Yasak": "Yolda kalmışa yardımcı olun",
-    "Süre": "( Isra, 26 )"
+    "emir": "Yolda kalmışa yardımcı olun",
+    "sure": "( Isra, 26 )"
   },
   {
-    "Emir ve Yasak": "Harcamalarda orta yoldan ayrılmayın",
-    "Süre": "( Isra, 29 )"
+    "emir": "Harcamalarda orta yoldan ayrılmayın",
+    "sure": "( Isra, 29 )"
   },
   {
-    "Emir ve Yasak": "Geçim kaygısıyla çocuklarınızı öldürmeyin",
-    "Süre": "( Isra, 31 )"
+    "emir": "Geçim kaygısıyla çocuklarınızı öldürmeyin",
+    "sure": "( Isra, 31 )"
   },
   {
-    "Emir ve Yasak": "Zinaya yaklaşmayın",
-    "Süre": "( Isra, 32 )"
+    "emir": "Zinaya yaklaşmayın",
+    "sure": "( Isra, 32 )"
   },
   {
-    "Emir ve Yasak": "Cana kıymayın",
-    "Süre": "( Isra, 33 )"
+    "emir": "Cana kıymayın",
+    "sure": "( Isra, 33 )"
   },
   {
-    "Emir ve Yasak": "Ahde vefalı olun",
-    "Süre": "( Isra, 34 )"
+    "emir": "Ahde vefalı olun",
+    "sure": "( Isra, 34 )"
   },
   {
-    "Emir ve Yasak": "Ölçü ve tartıda dürüst olun",
-    "Süre": "( Isra, 35 )"
+    "emir": "Ölçü ve tartıda dürüst olun",
+    "sure": "( Isra, 35 )"
   },
   {
-    "Emir ve Yasak": "Hakkında bilginiz olmayan şeyin ardına düşmeyin",
-    "Süre": "( Isra, 36 )"
+    "emir": "Hakkında bilginiz olmayan şeyin ardına düşmeyin",
+    "sure": "( Isra, 36 )"
   },
   {
-    "Emir ve Yasak": "Kibirlenip böbürlenmeyin",
-    "Süre": "( Isra, 37 )"
+    "emir": "Kibirlenip böbürlenmeyin",
+    "sure": "( Isra, 37 )"
   },
   {
-    "Emir ve Yasak": "Namaz sırasında sesinizi ne yükseltin ne de kısın",
-    "Süre": "( Isra, 110 )"
+    "emir": "Namaz sırasında sesinizi ne yükseltin ne de kısın",
+    "sure": "( Isra, 110 )"
   },
   {
-    "Emir ve Yasak": "Göklerde ve yerde neler var araştırın",
-    "Süre": "( Yunus, 101 )"
+    "emir": "Göklerde ve yerde neler var araştırın",
+    "sure": "( Yunus, 101 )"
   },
   {
-    "Emir ve Yasak": "Zalimlere eğilim göstermeyin",
-    "Süre": "( Hud, 113 )"
+    "emir": "Zalimlere eğilim göstermeyin",
+    "sure": "( Hud, 113 )"
   },
   {
-    "Emir ve Yasak": "Hak dostlarını horlamayın",
-    "Süre": "( En'am, 52 )"
+    "emir": "Hak dostlarını horlamayın",
+    "sure": "( En'am, 52 )"
   },
   {
-    "Emir ve Yasak": "Dünya hayatının aldattığı kişilerden uzak durun",
-    "Süre": "( En'am, 70 )"
+    "emir": "Dünya hayatının aldattığı kişilerden uzak durun",
+    "sure": "( En'am, 70 )"
   },
   {
-    "Emir ve Yasak": "Dinlerini oyun ve eğlence haline getirenlerden uzak durun",
-    "Süre": "( En'am, 70 )"
+    "emir": "Dinlerini oyun ve eğlence haline getirenlerden uzak durun",
+    "sure": "( En'am, 70 )"
   },
   {
-    "Emir ve Yasak": "Diğer dinlere ve inananlarına sövmeyin",
-    "Süre": "( En'am, 108 )"
+    "emir": "Diğer dinlere ve inananlarına sövmeyin",
+    "sure": "( En'am, 108 )"
   },
   {
-    "Emir ve Yasak": "Üzerine Allah'ın adı anılan şeylerden yiyin",
-    "Süre": "( En'am, 118 )"
+    "emir": "Üzerine Allah'ın adı anılan şeylerden yiyin",
+    "sure": "( En'am, 118 )"
   },
   {
-    "Emir ve Yasak": "Günahın görüneninden de görünmeyeninden de kaçının",
-    "Süre": "( En'am, 120 )"
+    "emir": "Günahın görüneninden de görünmeyeninden de kaçının",
+    "sure": "( En'am, 120 )"
   },
   {
-    "Emir ve Yasak": "Adil olun",
-    "Süre": "( En'am, 152 )"
+    "emir": "Adil olun",
+    "sure": "( En'am, 152 )"
   },
   {
-    "Emir ve Yasak": "Dini Allah'a has kılın ona kulluk edin",
-    "Süre": "( Zümer, 2 )"
+    "emir": "Dini Allah'a has kılın ona kulluk edin",
+    "sure": "( Zümer, 2 )"
   },
   {
-    "Emir ve Yasak": "Allah'tan ümit kesmeyin I",
-    "Süre": "( Zümer, 53 )"
+    "emir": "Allah'tan ümit kesmeyin I",
+    "sure": "( Zümer, 53 )"
   },
   {
-    "Emir ve Yasak": "Kötülüğü en güzel tavırla sayın",
-    "Süre": "( Fussilet, 34-35)"
+    "emir": "Kötülüğü en güzel tavırla sayın",
+    "sure": "( Fussilet, 34-35)"
   },
   {
-    "Emir ve Yasak": "İhtilaflarla karşılaştığınızda hükmü Allah'a bırakın",
-    "Süre": "( Şura, 10 )"
+    "emir": "İhtilaflarla karşılaştığınızda hükmü Allah'a bırakın",
+    "sure": "( Şura, 10 )"
   },
   {
-    "Emir ve Yasak": "Dinde ayrı düşüp fırkalara ayrılmayın I",
-    "Süre": "( Şura, 13-14)"
+    "emir": "Dinde ayrı düşüp fırkalara ayrılmayın I",
+    "sure": "( Şura, 13-14)"
   },
   {
-    "Emir ve Yasak": "Dosdoğru olun",
-    "Süre": "( Şura, 15-16)"
+    "emir": "Dosdoğru olun",
+    "sure": "( Şura, 15-16)"
   },
   {
-    "Emir ve Yasak": "Resulullah'a ve ailesine sevgi, saygı gösterin",
-    "Süre": "( Şura, 23 )"
+    "emir": "Resulullah'a ve ailesine sevgi, saygı gösterin",
+    "sure": "( Şura, 23 )"
   },
   {
-    "Emir ve Yasak": "Allah'a kaçıp sığının",
-    "Süre": "( Zariyat, 50 )"
+    "emir": "Allah'a kaçıp sığının",
+    "sure": "( Zariyat, 50 )"
   },
   {
-    "Emir ve Yasak": "Gelecek hakkında kesin hüküm vermeyin",
-    "Süre": "( Kehf, 23-24)"
+    "emir": "Gelecek hakkında kesin hüküm vermeyin",
+    "sure": "( Kehf, 23-24)"
   },
   {
-    "Emir ve Yasak": "Müminlerin yanlarında bulun",
-    "Süre": "( Kehf, 28 )"
+    "emir": "Müminlerin yanlarında bulun",
+    "sure": "( Kehf, 28 )"
   },
   {
-    "Emir ve Yasak": "Bilmediklerinizi bilenlere sorun",
-    "Süre": "( Nahl, 43 )"
+    "emir": "Bilmediklerinizi bilenlere sorun",
+    "sure": "( Nahl, 43 )"
   },
   {
-    "Emir ve Yasak": "Allah'ın emsallerini aramaya kalkmayın",
-    "Süre": "( Nahl, 74 )"
+    "emir": "Allah'ın emsallerini aramaya kalkmayın",
+    "sure": "( Nahl, 74 )"
   },
   {
-    "Emir ve Yasak": "Yeminlerinizi bozmayın",
-    "Süre": "( Nahl 91-94)"
+    "emir": "Yeminlerinizi bozmayın",
+    "sure": "( Nahl 91-94)"
   },
   {
-    "Emir ve Yasak": "Nimetlere şükredin",
-    "Süre": "( Nahl 114 )"
+    "emir": "Nimetlere şükredin",
+    "sure": "( Nahl 114 )"
   },
   {
-    "Emir ve Yasak": "Uydurma haramlar icat etmeyin",
-    "Süre": "( Nahl, 116 )"
+    "emir": "Uydurma haramlar icat etmeyin",
+    "sure": "( Nahl, 116 )"
   },
   {
-    "Emir ve Yasak": "Hz. İbrahim'in dinine uyun",
-    "Süre": "( Nahl, 123 )"
+    "emir": "Hz. İbrahim'in dinine uyun",
+    "sure": "( Nahl, 123 )"
   },
   {
-    "Emir ve Yasak": "Allah'ın yoluna çağrıyı hikmet e, güzel öğütle , güzel tartışmayla yapın",
-    "Süre": "( Nahl, 125 )"
+    "emir": "Allah'ın yoluna çağrıyı hikmet e, güzel öğütle , güzel tartışmayla yapın",
+    "sure": "( Nahl, 125 )"
   },
   {
-    "Emir ve Yasak": "Haksızlığa karşılık verirken ölçülü davranın",
-    "Süre": "( Nahl, 126"
+    "emir": "Haksızlığa karşılık verirken ölçülü davranın",
+    "sure": "( Nahl, 126"
   },
   {
-    "Emir ve Yasak": "Kendi ellerindeki parça parça bilgileri tek doğru sananlardan uzak durun",
-    "Süre": "( Müminun, 52-54)"
+    "emir": "Kendi ellerindeki parça parça bilgileri tek doğru sananlardan uzak durun",
+    "sure": "( Müminun, 52-54)"
   },
   {
-    "Emir ve Yasak": "Yalan sözden uzak durun",
-    "Süre": "( Hac, 30 )"
+    "emir": "Yalan sözden uzak durun",
+    "sure": "( Hac, 30 )"
   },
   {
-    "Emir ve Yasak": "Allah uğrunda, O'na yaraşır biçimde cihâd edin",
-    "Süre": "( Hac, 78 )"
+    "emir": "Allah uğrunda, O'na yaraşır biçimde cihâd edin",
+    "sure": "( Hac, 78 )"
   },
   {
-    "Emir ve Yasak": "Sabır ve namaz ile yardım dileyin",
-    "Süre": "( Bakara, 45 )"
+    "emir": "Sabır ve namaz ile yardım dileyin",
+    "sure": "( Bakara, 45 )"
   },
   {
-    "Emir ve Yasak": "Sürüye dönüşmeyin",
-    "Süre": "( Bakara, 104 )"
+    "emir": "Sürüye dönüşmeyin",
+    "sure": "( Bakara, 104 )"
   },
   {
-    "Emir ve Yasak": "Hayırlarda yarışın",
-    "Süre": "( Bakara, 148 )"
+    "emir": "Hayırlarda yarışın",
+    "sure": "( Bakara, 148 )"
   },
   {
-    "Emir ve Yasak": "Kâbe'yi kıble edinin",
-    "Süre": "( Bakara, 150 )"
+    "emir": "Kâbe'yi kıble edinin",
+    "sure": "( Bakara, 150 )"
   },
   {
-    "Emir ve Yasak": "Helal yiyeceklerden yiyin",
-    "Süre": "( Bakara, 168 )"
+    "emir": "Helal yiyeceklerden yiyin",
+    "sure": "( Bakara, 168 )"
   },
   {
-    "Emir ve Yasak": "Temiz yiyeceklerden yiyin",
-    "Süre": "( Bakara, 168 )"
+    "emir": "Temiz yiyeceklerden yiyin",
+    "sure": "( Bakara, 168 )"
   },
   {
-    "Emir ve Yasak": "Kısası uygulayın",
-    "Süre": "( Bakara, 178-179)"
+    "emir": "Kısası uygulayın",
+    "sure": "( Bakara, 178-179)"
   },
   {
-    "Emir ve Yasak": "Ramazan ayını oruçlu geçirin",
-    "Süre": "( Bakara, 183-185)"
+    "emir": "Ramazan ayını oruçlu geçirin",
+    "sure": "( Bakara, 183-185)"
   },
   {
-    "Emir ve Yasak": "Mescitlerde ibadete çekilmiş olduğunuz zamanlarda kadınlarla birleşmeyin",
-    "Süre": "( Bakara, 187 )"
+    "emir": "Mescitlerde ibadete çekilmiş olduğunuz zamanlarda kadınlarla birleşmeyin",
+    "sure": "( Bakara, 187 )"
   },
   {
-    "Emir ve Yasak": "Birbirinizin mal varlığını haksız yoldan yemeyin",
-    "Süre": "( Bakara, 188 )"
+    "emir": "Birbirinizin mal varlığını haksız yoldan yemeyin",
+    "sure": "( Bakara, 188 )"
   },
   {
-    "Emir ve Yasak": "Rüşvete bulaşmayın",
-    "Süre": "( Bakara, 188 )"
+    "emir": "Rüşvete bulaşmayın",
+    "sure": "( Bakara, 188 )"
   },
   {
-    "Emir ve Yasak": "Sizinle çarpışanlara karşı meşru savunma hakkınızı kullanın",
-    "Süre": "( Bakara, 190-194)"
+    "emir": "Sizinle çarpışanlara karşı meşru savunma hakkınızı kullanın",
+    "sure": "( Bakara, 190-194)"
   },
   {
-    "Emir ve Yasak": "Sahip olduğunuz nimetleri Allah yolunda paylaşın",
-    "Süre": "( Bakara, 195 )"
+    "emir": "Sahip olduğunuz nimetleri Allah yolunda paylaşın",
+    "sure": "( Bakara, 195 )"
   },
   {
-    "Emir ve Yasak": "Yaptığınızı güzel yapın",
-    "Süre": "( Bakara, 195 )"
+    "emir": "Yaptığınızı güzel yapın",
+    "sure": "( Bakara, 195 )"
   },
   {
-    "Emir ve Yasak": "Kendinizi tehlikeye atmayın",
-    "Süre": "( Bakara, 195 )"
+    "emir": "Kendinizi tehlikeye atmayın",
+    "sure": "( Bakara, 195 )"
   },
   {
-    "Emir ve Yasak": "Barışı hep birlikte gerçekleştirin",
-    "Süre": "( Bakara, 208 )"
+    "emir": "Barışı hep birlikte gerçekleştirin",
+    "sure": "( Bakara, 208 )"
   },
   {
-    "Emir ve Yasak": "Şeytanın adımlarını izlemeyin",
-    "Süre": "( Bakara, 208 )"
+    "emir": "Şeytanın adımlarını izlemeyin",
+    "sure": "( Bakara, 208 )"
   },
   {
-    "Emir ve Yasak": "Müşrik kadın ve erkeklerle evlenmeyin",
-    "Süre": "( Bakara, 221 )"
+    "emir": "Müşrik kadın ve erkeklerle evlenmeyin",
+    "sure": "( Bakara, 221 )"
   },
   {
-    "Emir ve Yasak": "Hayızlı(Adetli) kadınlarla cinsel temas kurmayın",
-    "Süre": "( Bakara, 222 )"
+    "emir": "Hayızlı(Adetli) kadınlarla cinsel temas kurmayın",
+    "sure": "( Bakara, 222 )"
   },
   {
-    "Emir ve Yasak": "Kadınlara cinsellik için yaklaştığınızda Allah'ın size emrettiği yerden gidin",
-    "Süre": "( Bakara, 222 )"
+    "emir": "Kadınlara cinsellik için yaklaştığınızda Allah'ın size emrettiği yerden gidin",
+    "sure": "( Bakara, 222 )"
   },
   {
-    "Emir ve Yasak": "Yeminlerinizi bahane ederek iyilikten kaçmayın",
-    "Süre": "( Bakara, 224 )"
+    "emir": "Yeminlerinizi bahane ederek iyilikten kaçmayın",
+    "sure": "( Bakara, 224 )"
   },
   {
-    "Emir ve Yasak": "Namazlara özellikle orta namaza devam edin",
-    "Süre": "( Bakara, 238 )"
+    "emir": "Namazlara özellikle orta namaza devam edin",
+    "sure": "( Bakara, 238 )"
   },
   {
-    "Emir ve Yasak": "Dinde zorlamaya yapmayın",
-    "Süre": "( Bakara, 256 )"
+    "emir": "Dinde zorlamaya yapmayın",
+    "sure": "( Bakara, 256 )"
   },
   {
-    "Emir ve Yasak": "Yaptığınız iyilikleri başa kakmayın",
-    "Süre": "( Bakara, 264-266)"
+    "emir": "Yaptığınız iyilikleri başa kakmayın",
+    "sure": "( Bakara, 264-266)"
   },
   {
-    "Emir ve Yasak": "Beğenip almayacağınız şeyleri başkalarına vermeye kalkmayın",
-    "Süre": "( Bakara, 267-268)"
+    "emir": "Beğenip almayacağınız şeyleri başkalarına vermeye kalkmayın",
+    "sure": "( Bakara, 267-268)"
   },
   {
-    "Emir ve Yasak": "Faizden uzak durun",
-    "Süre": "( Bahara, 275-280)"
+    "emir": "Faizden uzak durun",
+    "sure": "( Bahara, 275-280)"
   },
   {
-    "Emir ve Yasak": "Borçlanma işlemlerini yazıya geçirin",
-    "Süre": "( Bakara, 282-283)"
+    "emir": "Borçlanma işlemlerini yazıya geçirin",
+    "sure": "( Bakara, 282-283)"
   },
   {
-    "Emir ve Yasak": "Borçlanma işlemlerinde şahit bulunduran",
-    "Süre": "( Bakara, 282-283)"
+    "emir": "Borçlanma işlemlerinde şahit bulunduran",
+    "sure": "( Bakara, 282-283)"
   },
   {
-    "Emir ve Yasak": "Alışverişlerinizde şahit bulundurun",
-    "Süre": "( Bahara, 282-283)"
+    "emir": "Alışverişlerinizde şahit bulundurun",
+    "sure": "( Bahara, 282-283)"
   },
   {
-    "Emir ve Yasak": "Şahitlikten kaçınmayın",
-    "Süre": "( Bakara, 283 )"
+    "emir": "Şahitlikten kaçınmayın",
+    "sure": "( Bakara, 283 )"
   },
   {
-    "Emir ve Yasak": "Allah'ın elçisine itaat edin",
-    "Süre": "( Enfal, 1 )"
+    "emir": "Allah'ın elçisine itaat edin",
+    "sure": "( Enfal, 1 )"
   },
   {
-    "Emir ve Yasak": "Savaştan kaçmayın",
-    "Süre": "( Enfal, 15-16)"
+    "emir": "Savaştan kaçmayın",
+    "sure": "( Enfal, 15-16)"
   },
   {
-    "Emir ve Yasak": "Allah'a ve Resulüne hıyanet etmeyin",
-    "Süre": "( Enfal, 27 )"
+    "emir": "Allah'a ve Resulüne hıyanet etmeyin",
+    "sure": "( Enfal, 27 )"
   },
   {
-    "Emir ve Yasak": "Cihatta, gösteriş yaparak yurtlarından çıkan ve Allah yolundan alıkoyanlar gibi o mayın(Enfal, 47 )",
-    "Süre": ""
+    "emir": "Cihatta, gösteriş yaparak yurtlarından çıkan ve Allah yolundan alıkoyanlar gibi o mayın(Enfal, 47 )",
+    "sure": ""
   },
   {
-    "Emir ve Yasak": "Düşmanı savaştan caydırıcı önlemler alın",
-    "Süre": "( Enfal, 60 )"
+    "emir": "Düşmanı savaştan caydırıcı önlemler alın",
+    "sure": "( Enfal, 60 )"
   },
   {
-    "Emir ve Yasak": "Barış eğilimlerine olumlu karşılık verin",
-    "Süre": "( Enfal, 60-61)"
+    "emir": "Barış eğilimlerine olumlu karşılık verin",
+    "sure": "( Enfal, 60-61)"
   },
   {
-    "Emir ve Yasak": "inananları bırakıp kâfirleri dost edinmeyin",
-    "Süre": "( Ali Imran, 28 )"
+    "emir": "inananları bırakıp kâfirleri dost edinmeyin",
+    "sure": "( Ali Imran, 28 )"
   },
   {
-    "Emir ve Yasak": "Hacca gidin",
-    "Süre": "( Ali İmran, 96-97)"
+    "emir": "Hacca gidin",
+    "sure": "( Ali İmran, 96-97)"
   },
   {
-    "Emir ve Yasak": "Hayra çağıran, iyiliği emreden, kötülüğü engelleyen ekipler oluşturan",
-    "Süre": "( Ali İmran, 104 )"
+    "emir": "Hayra çağıran, iyiliği emreden, kötülüğü engelleyen ekipler oluşturan",
+    "sure": "( Ali İmran, 104 )"
   },
   {
-    "Emir ve Yasak": "Üzülüp gevşemeyin",
-    "Süre": "( Ali Imran, 139 )"
+    "emir": "Üzülüp gevşemeyin",
+    "sure": "( Ali Imran, 139 )"
   },
   {
-    "Emir ve Yasak": "Yönetimde istişareyi esas alın",
-    "Süre": "( Ali İmran, 159 )"
+    "emir": "Yönetimde istişareyi esas alın",
+    "sure": "( Ali İmran, 159 )"
   },
   {
-    "Emir ve Yasak": "Allah'tan korkun",
-    "Süre": "( Ali Imran, 175 )"
+    "emir": "Allah'tan korkun",
+    "sure": "( Ali Imran, 175 )"
   },
   {
-    "Emir ve Yasak": "Savaşa hazırlıklı ve uyanık bulunan",
-    "Süre": "( Ali İmran, 200 )"
+    "emir": "Savaşa hazırlıklı ve uyanık bulunan",
+    "sure": "( Ali İmran, 200 )"
   },
   {
-    "Emir ve Yasak": "Kendinizi sürekli hesaba çekin",
-    "Süre": "( Haşr, 18 )"
+    "emir": "Kendinizi sürekli hesaba çekin",
+    "sure": "( Haşr, 18 )"
   },
   {
-    "Emir ve Yasak": "Cuma namazı kılın",
-    "Süre": "( Cuma, 9-10)"
+    "emir": "Cuma namazı kılın",
+    "sure": "( Cuma, 9-10)"
   },
   {
-    "Emir ve Yasak": "Evlatlıklarınızı öz babalarına nispet ederek çağırın",
-    "Süre": "( Ahzab, 5 )"
+    "emir": "Evlatlıklarınızı öz babalarına nispet ederek çağırın",
+    "sure": "( Ahzab, 5 )"
   },
   {
-    "Emir ve Yasak": "Peygamberinizin şanını yüceltin",
-    "Süre": "( Ahzab, 56 )"
+    "emir": "Peygamberinizin şanını yüceltin",
+    "sure": "( Ahzab, 56 )"
   },
   {
-    "Emir ve Yasak": "Mümin kadınlar başörtülerinizi takın",
-    "Süre": "( Ahzab, 59 )"
+    "emir": "Mümin kadınlar başörtülerinizi takın",
+    "sure": "( Ahzab, 59 )"
   },
   {
-    "Emir ve Yasak": "Mallarınızı aklı ermezlere",
-    "Süre": "( reşit olmayanlara) vermeyin; onları besleyin, giydirin, onlara güzel söz söyleyin.(Nisa , 5 )"
+    "emir": "Mallarınızı aklı ermezlere",
+    "sure": "( reşit olmayanlara) vermeyin; onları besleyin, giydirin, onlara güzel söz söyleyin.(Nisa , 5 )"
   },
   {
-    "Emir ve Yasak": "Yetimleri kollayıp gözetin",
-    "Süre": "( Nisa, 6 )"
+    "emir": "Yetimleri kollayıp gözetin",
+    "sure": "( Nisa, 6 )"
   },
   {
-    "Emir ve Yasak": "Kadınlarınızdan eşcinsellik yapanlara karşı dört şahit getirin",
-    "Süre": "( Nisa, 15 )"
+    "emir": "Kadınlarınızdan eşcinsellik yapanlara karşı dört şahit getirin",
+    "sure": "( Nisa, 15 )"
   },
   {
-    "Emir ve Yasak": "Homoseksüellik yapan erkeklere eziyetle karşı çıkın",
-    "Süre": "( Nisa, 16 )"
+    "emir": "Homoseksüellik yapan erkeklere eziyetle karşı çıkın",
+    "sure": "( Nisa, 16 )"
   },
   {
-    "Emir ve Yasak": "Size haram kılınan kadınlarla evlenmeyin",
-    "Süre": "( Nisa, 22-24)"
+    "emir": "Size haram kılınan kadınlarla evlenmeyin",
+    "sure": "( Nisa, 22-24)"
   },
   {
-    "Emir ve Yasak": "intihar etmeyin",
-    "Süre": "( Nisa, 29-30)"
+    "emir": "intihar etmeyin",
+    "sure": "( Nisa, 29-30)"
   },
   {
-    "Emir ve Yasak": "Birbirinizin nimet ve imkânlanna göz dikmeyin",
-    "Süre": "( Nisa, 32 )"
+    "emir": "Birbirinizin nimet ve imkânlanna göz dikmeyin",
+    "sure": "( Nisa, 32 )"
   },
   {
-    "Emir ve Yasak": "Başkaldırmasından endişe ettiğiniz kadınlara öğüt verin, onları yataklarda yalnız bırakın ve nihayet onları evden uzak aştırın",
-    "Süre": "( Nisa, 34 )"
+    "emir": "Başkaldırmasından endişe ettiğiniz kadınlara öğüt verin, onları yataklarda yalnız bırakın ve nihayet onları evden uzak aştırın",
+    "sure": "( Nisa, 34 )"
   },
   {
-    "Emir ve Yasak": "Araları açılan eşlerin barışmaları için iki hakem tayin edin",
-    "Süre": "( Nisa, 35 )"
+    "emir": "Araları açılan eşlerin barışmaları için iki hakem tayin edin",
+    "sure": "( Nisa, 35 )"
   },
   {
-    "Emir ve Yasak": "Su bulamadığınız yerde teyemmüm ile ibadet edin",
-    "Süre": "( Nisa, 43 )"
+    "emir": "Su bulamadığınız yerde teyemmüm ile ibadet edin",
+    "sure": "( Nisa, 43 )"
   },
   {
-    "Emir ve Yasak": "Sarhoşken namaza yaklaşmayın",
-    "Süre": "( Nisa, 43 )"
+    "emir": "Sarhoşken namaza yaklaşmayın",
+    "sure": "( Nisa, 43 )"
   },
   {
-    "Emir ve Yasak": "Cünüpken namaza yaklaşmayın",
-    "Süre": "( Nisa, 43 )"
+    "emir": "Cünüpken namaza yaklaşmayın",
+    "sure": "( Nisa, 43 )"
   },
   {
-    "Emir ve Yasak": "Emanetleri ehil olanlara verin",
-    "Süre": "( Nisa, 58 )"
+    "emir": "Emanetleri ehil olanlara verin",
+    "sure": "( Nisa, 58 )"
   },
   {
-    "Emir ve Yasak": "Müslüman idarecilere itaat edin",
-    "Süre": "( Nisa, 59 )"
+    "emir": "Müslüman idarecilere itaat edin",
+    "sure": "( Nisa, 59 )"
   },
   {
-    "Emir ve Yasak": "Zulme uğrayan insanlar için savaşın",
-    "Süre": "( Nisa, 75 )"
+    "emir": "Zulme uğrayan insanlar için savaşın",
+    "sure": "( Nisa, 75 )"
   },
   {
-    "Emir ve Yasak": "Şeytan dostları ile savaşın",
-    "Süre": "( Nisa, 76 )"
+    "emir": "Şeytan dostları ile savaşın",
+    "sure": "( Nisa, 76 )"
   },
   {
-    "Emir ve Yasak": "Selama kesinlikle karşılık verin",
-    "Süre": "( Nisa, 86 )"
+    "emir": "Selama kesinlikle karşılık verin",
+    "sure": "( Nisa, 86 )"
   },
   {
-    "Emir ve Yasak": "Size selam verenlere \"Sen mümin değilsin \" demeyin",
-    "Süre": "( Nisa, 94 )"
+    "emir": "Size selam verenlere \"Sen mümin değilsin \" demeyin",
+    "sure": "( Nisa, 94 )"
   },
   {
-    "Emir ve Yasak": "Hainlerin savunucusu olmayın",
-    "Süre": "( Nisa, 105-107)"
+    "emir": "Hainlerin savunucusu olmayın",
+    "sure": "( Nisa, 105-107)"
   },
   {
-    "Emir ve Yasak": "Allah'a iman edin",
-    "Süre": "( Nisa, 136 )"
+    "emir": "Allah'a iman edin",
+    "sure": "( Nisa, 136 )"
   },
   {
-    "Emir ve Yasak": "Peygamberlere iman edin",
-    "Süre": "( Nisa, 136 )"
+    "emir": "Peygamberlere iman edin",
+    "sure": "( Nisa, 136 )"
   },
   {
-    "Emir ve Yasak": "indirilen kitaplara iman edin",
-    "Süre": "( Nisa, 136 )"
+    "emir": "indirilen kitaplara iman edin",
+    "sure": "( Nisa, 136 )"
   },
   {
-    "Emir ve Yasak": "Meleklere iman edin)",
-    "Süre": "( Nisa, 136 )"
+    "emir": "Meleklere iman edin)",
+    "sure": "( Nisa, 136 )"
   },
   {
-    "Emir ve Yasak": "Ahiret gününe iman edin",
-    "Süre": "( Nisa, 136 )"
+    "emir": "Ahiret gününe iman edin",
+    "sure": "( Nisa, 136 )"
   },
   {
-    "Emir ve Yasak": "Allah'ın ayetleriyle inkk ve alay edildiğinde orada oturmayın",
-    "Süre": "( Nisa, 140 )"
+    "emir": "Allah'ın ayetleriyle inkk ve alay edildiğinde orada oturmayın",
+    "sure": "( Nisa, 140 )"
   },
   {
-    "Emir ve Yasak": "Zina eden kadın ve erkeği dövün",
-    "Süre": "( Nur, 2 )"
+    "emir": "Zina eden kadın ve erkeği dövün",
+    "sure": "( Nur, 2 )"
   },
   {
-    "Emir ve Yasak": "Zina edenler ancak zina edenlerle ya da müşriklerle nikâhlansın",
-    "Süre": "( Nur, 3 )"
+    "emir": "Zina edenler ancak zina edenlerle ya da müşriklerle nikâhlansın",
+    "sure": "( Nur, 3 )"
   },
   {
-    "Emir ve Yasak": "iffetli kadınlara iftira edenleri dövün",
-    "Süre": "( Nur, 4 )"
+    "emir": "iffetli kadınlara iftira edenleri dövün",
+    "sure": "( Nur, 4 )"
   },
   {
-    "Emir ve Yasak": "iffetli kadınlara iftira atanların şahitliğini bir daha asla kabul etmeyin",
-    "Süre": "( Nur, 4 )"
+    "emir": "iffetli kadınlara iftira atanların şahitliğini bir daha asla kabul etmeyin",
+    "sure": "( Nur, 4 )"
   },
   {
-    "Emir ve Yasak": "Başkalarının evlerine izinsiz ve selamsız girmeyin",
-    "Süre": "( Nur, 27-29)"
+    "emir": "Başkalarının evlerine izinsiz ve selamsız girmeyin",
+    "sure": "( Nur, 27-29)"
   },
   {
-    "Emir ve Yasak": "Bakışlarınızı denetim altında tutun",
-    "Süre": "( Nur, 30-31)"
+    "emir": "Bakışlarınızı denetim altında tutun",
+    "sure": "( Nur, 30-31)"
   },
   {
-    "Emir ve Yasak": "Irzınızı koruyun",
-    "Süre": "( Nur, 30-31) 10"
+    "emir": "Irzınızı koruyun",
+    "sure": "( Nur, 30-31) 10"
   },
   {
-    "Emir ve Yasak": "Mümin kadınlar başörtülerinizi takın",
-    "Süre": "( Nur, 31 )"
+    "emir": "Mümin kadınlar başörtülerinizi takın",
+    "sure": "( Nur, 31 )"
   },
   {
-    "Emir ve Yasak": "Mümin kadınlar ziynetlerini yakınlarından başkasına göstermesinler",
-    "Süre": "( Nur, 31 )"
+    "emir": "Mümin kadınlar ziynetlerini yakınlarından başkasına göstermesinler",
+    "sure": "( Nur, 31 )"
   },
   {
-    "Emir ve Yasak": "Hepiniz Allah'a tövbe edin)",
-    "Süre": "( Nur, 31 )"
+    "emir": "Hepiniz Allah'a tövbe edin)",
+    "sure": "( Nur, 31 )"
   },
   {
-    "Emir ve Yasak": "Evlenme durumuna gelenleri evlendirin",
-    "Süre": "( Nur, 32 )"
+    "emir": "Evlenme durumuna gelenleri evlendirin",
+    "sure": "( Nur, 32 )"
   },
   {
-    "Emir ve Yasak": "Hz. Peygambere hitabınız birbirinize hitabınız gibi olmasın",
-    "Süre": "( Nur, 63 )"
+    "emir": "Hz. Peygambere hitabınız birbirinize hitabınız gibi olmasın",
+    "sure": "( Nur, 63 )"
   },
   {
-    "Emir ve Yasak": "Mallarınızın Allah'ı anmanıza engel olmasına izin vermeyin",
-    "Süre": "( Münafikun, 9 )"
+    "emir": "Mallarınızın Allah'ı anmanıza engel olmasına izin vermeyin",
+    "sure": "( Münafikun, 9 )"
   },
   {
-    "Emir ve Yasak": "Çocuklarınızın Allahı anmanıza engel olmasına izin vermeyin",
-    "Süre": "( Münafikun, 9 )"
+    "emir": "Çocuklarınızın Allahı anmanıza engel olmasına izin vermeyin",
+    "sure": "( Münafikun, 9 )"
   },
   {
-    "Emir ve Yasak": "Mescitlerde, meclislerde yeni gelenlere yer açın",
-    "Süre": "( Mücadile, 11 )"
+    "emir": "Mescitlerde, meclislerde yeni gelenlere yer açın",
+    "sure": "( Mücadile, 11 )"
   },
   {
-    "Emir ve Yasak": "Allah'ın emirlerini tanımayanların getirdiği haberleri iyice araştırın",
-    "Süre": "( Hucurat, 6 )"
+    "emir": "Allah'ın emirlerini tanımayanların getirdiği haberleri iyice araştırın",
+    "sure": "( Hucurat, 6 )"
   },
   {
-    "Emir ve Yasak": "Müminler arası çekişmelere müdahale ederek barışı sağlayın",
-    "Süre": "( Hucurat, 9-10)"
+    "emir": "Müminler arası çekişmelere müdahale ederek barışı sağlayın",
+    "sure": "( Hucurat, 9-10)"
   },
   {
-    "Emir ve Yasak": "Müminler arası çekişmelerde şiddeti başlatan tarafla savaşın",
-    "Süre": "( Hucurat, 9-10)"
+    "emir": "Müminler arası çekişmelerde şiddeti başlatan tarafla savaşın",
+    "sure": "( Hucurat, 9-10)"
   },
   {
-    "Emir ve Yasak": "Birbirinizle alay etmeyin",
-    "Süre": "( Hucurat, 11 )"
+    "emir": "Birbirinizle alay etmeyin",
+    "sure": "( Hucurat, 11 )"
   },
   {
-    "Emir ve Yasak": "Birbirinize kötü lakaplar takmayın",
-    "Süre": "( Hucurat, 11 )"
+    "emir": "Birbirinize kötü lakaplar takmayın",
+    "sure": "( Hucurat, 11 )"
   },
   {
-    "Emir ve Yasak": "Birbirinizde ayıp aramayın",
-    "Süre": "( Hucurat, 11 )"
+    "emir": "Birbirinizde ayıp aramayın",
+    "sure": "( Hucurat, 11 )"
   },
   {
-    "Emir ve Yasak": "Zandan, önyargılardan kaçının ",
-    "Süre": "( Hucurat, 12 )"
+    "emir": "Zandan, önyargılardan kaçının ",
+    "sure": "( Hucurat, 12 )"
   },
   {
-    "Emir ve Yasak": "Sizi alakadar etmeyen şeyleri araştırmayın",
-    "Süre": "( Hucurat, 12 )"
+    "emir": "Sizi alakadar etmeyen şeyleri araştırmayın",
+    "sure": "( Hucurat, 12 )"
   },
   {
-    "Emir ve Yasak": "Birbirinizin gıybetini yapmayın",
-    "Süre": "( Hucurat, 12 )"
+    "emir": "Birbirinizin gıybetini yapmayın",
+    "sure": "( Hucurat, 12 )"
   },
   {
-    "Emir ve Yasak": "Kendinize ve ailenize sahip çıkın",
-    "Süre": "( Ta hrim, 6 )"
+    "emir": "Kendinize ve ailenize sahip çıkın",
+    "sure": "( Ta hrim, 6 )"
   },
   {
-    "Emir ve Yasak": "Eşlerinizden ve çocuklarınızdan size düşman olabileceklere karşı tedbirli olun",
-    "Süre": "( Teğabun,14-15)"
+    "emir": "Eşlerinizden ve çocuklarınızdan size düşman olabileceklere karşı tedbirli olun",
+    "sure": "( Teğabun,14-15)"
   },
   {
-    "Emir ve Yasak": "Yapmayacağınız, yapamayacağınız şeyleri söylemeyin",
-    "Süre": "( Saff, 2-3)"
+    "emir": "Yapmayacağınız, yapamayacağınız şeyleri söylemeyin",
+    "sure": "( Saff, 2-3)"
   },
   {
-    "Emir ve Yasak": "Allah'ın yardımcıları olun",
-    "Süre": "( Saff, 14 )"
+    "emir": "Allah'ın yardımcıları olun",
+    "sure": "( Saff, 14 )"
   },
   {
-    "Emir ve Yasak": "iyilik ve takva üzere yardımlaşın",
-    "Süre": "( Maide, 2 )"
+    "emir": "iyilik ve takva üzere yardımlaşın",
+    "sure": "( Maide, 2 )"
   },
   {
-    "Emir ve Yasak": "Düşmanlık üzere yardımlaşmayın",
-    "Süre": "( Maide, 2 )"
+    "emir": "Düşmanlık üzere yardımlaşmayın",
+    "sure": "( Maide, 2 )"
   },
   {
-    "Emir ve Yasak": "Haram etleri ve kanı yemeyin",
-    "Süre": "( Maide, 3 )"
+    "emir": "Haram etleri ve kanı yemeyin",
+    "sure": "( Maide, 3 )"
   },
   {
-    "Emir ve Yasak": "Av hayvanları üzerine Allah'ın adını anın",
-    "Süre": "( Maide, 4 )"
+    "emir": "Av hayvanları üzerine Allah'ın adını anın",
+    "sure": "( Maide, 4 )"
   },
   {
-    "Emir ve Yasak": "Namazdan önce abdest alın",
-    "Süre": "( Maide, 6 )"
+    "emir": "Namazdan önce abdest alın",
+    "sure": "( Maide, 6 )"
   },
   {
-    "Emir ve Yasak": "Cünüp olduğunuz zaman boy abdesti alın",
-    "Süre": "( Maide, 6 )"
+    "emir": "Cünüp olduğunuz zaman boy abdesti alın",
+    "sure": "( Maide, 6 )"
   },
   {
-    "Emir ve Yasak": "Allah'a giden yol arayın",
-    "Süre": "( Maide, 35 )"
+    "emir": "Allah'a giden yol arayın",
+    "sure": "( Maide, 35 )"
   },
   {
-    "Emir ve Yasak": "Hırsızın elini kesin",
-    "Süre": "( Maide, 38-39)"
+    "emir": "Hırsızın elini kesin",
+    "sure": "( Maide, 38-39)"
   },
   {
-    "Emir ve Yasak": "Zorda kaldığınızda Yahudi ve Hristiyanlara sığınmayın",
-    "Süre": "( Maide, 51 )"
+    "emir": "Zorda kaldığınızda Yahudi ve Hristiyanlara sığınmayın",
+    "sure": "( Maide, 51 )"
   },
   {
-    "Emir ve Yasak": "Allah'ın helal bıraktığı şeyleri haram ilan etmeyin",
-    "Süre": "( Maide, 87-88)"
+    "emir": "Allah'ın helal bıraktığı şeyleri haram ilan etmeyin",
+    "sure": "( Maide, 87-88)"
   },
   {
-    "Emir ve Yasak": "içkiden, uyuşturucudan, kumardan, putlardan, şans oyunlarından uzak durun",
-    "Süre": "( Maide,90-91)"
+    "emir": "içkiden, uyuşturucudan, kumardan, putlardan, şans oyunlarından uzak durun",
+    "sure": "( Maide,90-91)"
   },
   {
-    "Emir ve Yasak": "Kafirlerle olan nikâhlannızı bitirin",
-    "Süre": "( Mümtehine, 10 )"
+    "emir": "Kafirlerle olan nikâhlannızı bitirin",
+    "sure": "( Mümtehine, 10 )"
   },
   {
-    "Emir ve Yasak": "Allah'ın gazap ettiği bir toplulukla dostluk etmeyin",
-    "Süre": "( Mümtehine, 13 )"
+    "emir": "Allah'ın gazap ettiği bir toplulukla dostluk etmeyin",
+    "sure": "( Mümtehine, 13 )"
   },
   {
-    "Emir ve Yasak": "Savaş sırasında bir müşrik size sığınırsa buna izin verin",
-    "Süre": "( Teybe, 6 )"
+    "emir": "Savaş sırasında bir müşrik size sığınırsa buna izin verin",
+    "sure": "( Teybe, 6 )"
   },
   {
-    "Emir ve Yasak": "Allah rızası için inşa edilmeyen mescitlerde bulunmayın",
-    "Süre": "( Teybe, 107-109)"
+    "emir": "Allah rızası için inşa edilmeyen mescitlerde bulunmayın",
+    "sure": "( Teybe, 107-109)"
   }
 ]

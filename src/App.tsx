@@ -3,8 +3,8 @@ import emirlerData from "./kurandaki-emirler.json";
 import "./App.css";
 
 interface Emir {
-  "Emir ve Yasak": string;
-  Süre: string;
+  emir: string;
+  sure: string;
 }
 
 function App() {
@@ -25,9 +25,9 @@ function App() {
         <img src="/pwa-192x192.png" alt="Kuran Logo" className="kuran-logo" />
         <h1>Kuran'daki Emirler ve Yasaklar</h1>
         {currentEmir && (
-          <div className="emir-card">
-            <p className="emir-text">{currentEmir["Emir ve Yasak"]}</p>
-            <p className="sure-text">{currentEmir["Süre"]}</p>
+          <div className="emir-card" data-testid="emir-card">
+            <p className="emir-text" data-testid="emir-text">{currentEmir["emir"]}</p>
+            <p className="sure-text" data-testid="sure-text">{currentEmir["sure"]}</p>
           </div>
         )}
         <button onClick={getRandomEmir} className="random-button">
