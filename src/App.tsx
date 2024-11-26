@@ -22,12 +22,16 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        <img src="/pwa-192x192.png" alt="Kuran Logo" className="kuran-logo" />
+        <img src="/pwa-192x192.png" alt="Kuran'dan Emirler Logo" className="kuran-logo" />
         <h1>Kuran'daki Emirler ve Yasaklar</h1>
         {currentEmir && (
           <div className="emir-card" data-testid="emir-card">
-            <p className="emir-text" data-testid="emir-text">{currentEmir["emir"]}</p>
-            <p className="sure-text" data-testid="sure-text">{currentEmir["sure"]}</p>
+            <p className="emir-text" data-testid="emir-text">
+              {currentEmir["emir"]}
+            </p>
+            <p className="sure-text" data-testid="sure-text">
+              {currentEmir["sure"]}
+            </p>
           </div>
         )}
         <button onClick={getRandomEmir} className="random-button">
