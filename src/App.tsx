@@ -30,7 +30,7 @@ function App() {
           </div>
         )}
         <button onClick={getRandomEmir} className="random-button">
-          Yeni Emir Göster
+          Yeni Göster
         </button>
       </div>
     </div>
