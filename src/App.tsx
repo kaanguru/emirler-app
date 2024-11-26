@@ -1,10 +1,10 @@
-import { useState, useEffect } from 'react';
-import emirlerData from './kurandaki-emirler.json';
-import './App.css';
+import { useState, useEffect } from "react";
+import emirlerData from "./kurandaki-emirler.json";
+import "./App.css";
 
 interface Emir {
   "Emir ve Yasak": string;
-  "Süre": string;
+  Süre: string;
 }
 
 function App() {
@@ -22,6 +22,7 @@ function App() {
   return (
     <div className="App">
       <div className="container">
+        <img src="/pwa-192x192.png" alt="Kuran Logo" className="kuran-logo" />
         <h1>Kuran'daki Emirler ve Yasaklar</h1>
         {currentEmir && (
           <div className="emir-card">
