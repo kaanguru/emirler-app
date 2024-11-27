@@ -28,7 +28,7 @@ function App() {
           <p>Kuran'daki Emir ve Yasaklar</p>
           {currentEmir && <EmirCard emir={currentEmir} />}
           <button onClick={() => getRandomEmir()} className="random-button">
-            Yeni Göster
+            <i className="fa-solid fa-shuffle fa-xl "></i>
           </button>
           <Footer />
         </div>
