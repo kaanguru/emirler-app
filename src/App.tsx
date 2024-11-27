@@ -1,4 +1,5 @@
-import { useState, useEffect } from "react";
+/* eslint-disable functional/no-return-void */
+import { useState, useEffect, useCallback } from "react";
 import EmirCard from "./components/EmirCard";
 import Footer from "./components/Footer";
 import emirlerData from "./kurandaki-emirler.json";
@@ -12,16 +13,8 @@ export interface Emir {
 function App() {
   const [currentEmir, setCurrentEmir] = useState<Emir | null>(null);
   const [usedIndexes, setUsedIndexes] = useState<number[]>([]);
-
-  useEffect(() => {
-    const storedUsedIndexes = localStorage.getItem("usedIndexes");
-    if (storedUsedIndexes) {
-      setUsedIndexes(JSON.parse(storedUsedIndexes));
-    }
-    getRandomEmir();
-  }, []);
-
-  const getRandomEmir = () => {
+  const getRandomEmir = useCallback(() => {
+    // eslint-disable-next-line functional/no-let
     let randomIndex: number;
 
     if (usedIndexes.length === emirlerData.length) {
@@ -30,9 +23,14 @@ function App() {
       localStorage.removeItem("usedIndexes");
       randomIndex = Math.floor(Math.random() * emirlerData.length);
     } else {
-      do {
+      const availableIndexes = emirlerData.map((_, index) => index).filter((index) => !usedIndexes.includes(index));
+
+      if (availableIndexes.length > 0) {
+        randomIndex = availableIndexes[Math.floor(Math.random() * availableIndexes.length)];
+      } else {
+        // Fallback, should not happen due to the check above
         randomIndex = Math.floor(Math.random() * emirlerData.length);
-      } while (usedIndexes.includes(randomIndex));
+      }
     }
 
     setUsedIndexes((prevIndexes) => {
@@ -42,19 +40,27 @@ function App() {
     });
 
     setCurrentEmir(emirlerData[randomIndex]);
-  };
+  }, [usedIndexes, setUsedIndexes, setCurrentEmir]);
+
+  useEffect(() => {
+    const storedUsedIndexes = localStorage.getItem("usedIndexes");
+    if (storedUsedIndexes) {
+      setUsedIndexes(JSON.parse(storedUsedIndexes));
+    }
+    getRandomEmir();
+  }, [getRandomEmir]);
 
   return (
     <div className="App">
       <div className="container">
         <img src="/pwa-192x192.png" alt="Kuran'dan Emirler Logo" />
+        <p>Kuran'daki Emir ve Yasaklar</p>
         <div onClick={() => getRandomEmir()}>
           {currentEmir && <EmirCard emir={currentEmir} />}
           <button className="random-button">
             <i className="fa-solid fa-shuffle fa-xl"></i>
           </button>
         </div>
-        <p>Kuran'daki Emir ve Yasaklar</p>
         <Footer />
       </div>
     </div>
