@@ -1,5 +1,5 @@
 /* eslint-disable functional/no-return-void */
-import { useState, useEffect, useCallback } from "react";
+import { useState, useEffect } from "react";
 import EmirCard from "./components/EmirCard";
 import Footer from "./components/Footer";
 import emirlerData from "./kurandaki-emirler.json";
@@ -10,45 +10,53 @@ export interface Emir {
   sure: string;
 }
 
-function App() {
-  const [currentEmir, setCurrentEmir] = useState<Emir | null>(null);
+const App = () => {
   const [usedIndexes, setUsedIndexes] = useState<number[]>([]);
-  const getRandomEmir = useCallback(() => {
+  const [currentEmir, setCurrentEmir] = useState<Emir | null>(null);
+
+  useEffect(() => {
+    // Load usedIndexes from local storage on component mount
+    const storedIndexes = localStorage.getItem("usedIndexes");
+    if (storedIndexes) {
+      setUsedIndexes(JSON.parse(storedIndexes));
+    }
+    getRandomEmir();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
+
+  const getRandomEmir = () => {
     // eslint-disable-next-line functional/no-let
-    let randomIndex: number;
+    let randomIndex: number | null = null;
 
     if (usedIndexes.length === emirlerData.length) {
-      // Reset used indexes if all have been used
       setUsedIndexes([]);
       localStorage.removeItem("usedIndexes");
       randomIndex = Math.floor(Math.random() * emirlerData.length);
     } else {
-      const availableIndexes = emirlerData.map((_, index) => index).filter((index) => !usedIndexes.includes(index));
+      const availableIndexes = emirlerData.reduce<number[]>((acc, _, index) => {
+        if (!usedIndexes.includes(index)) {
+          return [...acc, index];
+        }
+        return acc;
+      }, []);
 
       if (availableIndexes.length > 0) {
         randomIndex = availableIndexes[Math.floor(Math.random() * availableIndexes.length)];
-      } else {
-        // Fallback, should not happen due to the check above
-        randomIndex = Math.floor(Math.random() * emirlerData.length);
       }
     }
 
-    setUsedIndexes((prevIndexes) => {
-      const newIndexes = [...prevIndexes, randomIndex];
-      localStorage.setItem("usedIndexes", JSON.stringify(newIndexes));
-      return newIndexes;
-    });
+    if (randomIndex !== null) {
+      setUsedIndexes((prevIndexes) => {
+        const newIndexes = [...prevIndexes, randomIndex];
+        localStorage.setItem("usedIndexes", JSON.stringify(newIndexes));
+        return newIndexes;
+      });
 
-    setCurrentEmir(emirlerData[randomIndex]);
-  }, [usedIndexes, setUsedIndexes, setCurrentEmir]);
-
-  useEffect(() => {
-    const storedUsedIndexes = localStorage.getItem("usedIndexes");
-    if (storedUsedIndexes) {
-      setUsedIndexes(JSON.parse(storedUsedIndexes));
+      setCurrentEmir(emirlerData[randomIndex]);
+    } else {
+      console.error("Random index was not assigned a value.");
     }
-    getRandomEmir();
-  }, [getRandomEmir]);
+  };
 
   return (
     <div className="App">
@@ -65,6 +73,6 @@ function App() {
       </div>
     </div>
   );
-}
+};
 
 export default App;
