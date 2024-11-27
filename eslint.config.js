@@ -9,7 +9,7 @@ import functional from "eslint-plugin-functional";
 export default tseslint.config(
   { ignores: ["dist"] },
   {
-    extends: [functional.configs.lite, functional.configs.externalTypeScriptRecommended, js.configs.recommended, ...tseslint.configs.recommended],
+    extends: [functional.configs.externalTypeScriptRecommended, functional.configs.lite, js.configs.recommended, ...tseslint.configs.recommended],
     files: ["**/*.{ts,tsx}"],
     languageOptions: {
       parser: tseslint.parser,
@@ -18,10 +18,6 @@ export default tseslint.config(
       },
       ecmaVersion: 2020,
       globals: globals.browser,
-      parser: tseslint.parser,
-      parserOptions: {
-        projectService: true,
-      },
     },
     plugins: {
       "react-hooks": reactHooks,
