@@ -1,6 +1,8 @@
 # Kuran'dan Emirler
 
-Raslantısal olarak Kuran'dan Emirler gösterir.
+- Raslantısal olarak Kuran'dan Emirler gösterir.
+
+- Karşınıza çıkan ayetler tüm 206 emiri görünceye kadar tekrarlanmaz.
 
 **206 Emir içerir.**
 
