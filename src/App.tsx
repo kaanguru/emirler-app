@@ -3,6 +3,7 @@ import EmirCard from "./components/EmirCard";
 import Footer from "./components/Footer";
 import emirlerData from "./kurandaki-emirler.json";
 import "./styles/App.css";
+import { useKey } from "react-use";
 
 export interface Emir {
   emir: string;
@@ -19,6 +20,7 @@ function App() {
   useEffect(() => {
     getRandomEmir();
   }, []);
+  useKey("space", getRandomEmir);
 
   return (
     <>
