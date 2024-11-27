@@ -1,10 +1,11 @@
 .container {
-  max-width: 960px;
-  min-width: 360px;
-  width: 90%;
-  text-align: center;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-items: center;
+  height: 100vh;
+  justify-content: space-evenly;
 }
-
 .emir-card {
   background-color: var(--card-background);
   border-radius: 10px;
@@ -12,11 +13,12 @@
   margin: 1rem auto;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   text-align: center;
-  max-width: 600px;
+  max-width: 640px;
+  min-height: 9rem;
 }
 
 .emir-text {
-  font-size: 1.2rem;
+  font-size: 1.5rem;
   margin: 1.5rem 0;
   line-height: 1.6;
   color: var(--text-color);

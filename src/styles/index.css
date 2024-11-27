@@ -18,36 +18,27 @@
   --card-background: #fffceb;
   --border-hover: #646cff;
 }
-
+body {
+  margin: 0;
+}
 #root {
-  max-width: 1280px;
+  max-width: 960px;
+  min-width: 360px;
+  height: 100vh;
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
 }
 
 .App {
-  min-height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
   background-color: var(--background-light);
   padding: 20px;
-}
-
-body {
-  margin: 0;
-  display: flex;
-  place-items: center;
-  min-width: 320px;
-  min-height: 100vh;
 }
 
 @media (prefers-color-scheme: light) {
   [data-theme="light"] {
     :root,
     .App,
-    footer,
     a {
       color: #213547;
       background-color: #f7fff7;
@@ -55,8 +46,7 @@ body {
   }
   [data-theme="dark"] {
     :root,
-    .App,
-    footer {
+    .App {
       color: #eceff1;
       background-color: #1a2027;
     }
@@ -72,10 +62,17 @@ body {
 }
 
 @media (prefers-color-scheme: dark) {
-  [data-theme="dark"] {
+  [data-theme="light"] {
     :root,
     .App,
-    footer {
+    a {
+      color: #213547;
+      background-color: #f7fff7;
+    }
+  }
+  [data-theme="dark"] {
+    :root,
+    .App {
       color: #eceff1;
       background-color: #1a2027;
     }

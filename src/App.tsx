@@ -21,7 +21,7 @@ function App() {
   }, []);
 
   return (
-    <div className="page-container">
+    <>
       <div className="App">
         <div className="container">
           <img src="/pwa-192x192.png" alt="Kuran'dan Emirler Logo" />
@@ -33,7 +33,7 @@ function App() {
           <Footer />
         </div>
       </div>
-    </div>
+    </>
   );
 }
 
