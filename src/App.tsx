@@ -13,20 +13,9 @@ export interface Emir {
 const App = () => {
   const [usedIndexes, setUsedIndexes] = useState<number[]>([]);
   const [currentEmir, setCurrentEmir] = useState<Emir | null>(null);
-
-  useEffect(() => {
-    // Load usedIndexes from local storage on component mount
-    const storedIndexes = localStorage.getItem("usedIndexes");
-    if (storedIndexes) {
-      setUsedIndexes(JSON.parse(storedIndexes));
-    }
-    getRandomEmir();
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, []);
-
   const getRandomEmir = () => {
     // eslint-disable-next-line functional/no-let
-    let randomIndex: number | null = null;
+    let randomIndex: number = 1;
 
     if (usedIndexes.length === emirlerData.length) {
       setUsedIndexes([]);
@@ -39,24 +28,28 @@ const App = () => {
         }
         return acc;
       }, []);
-
       if (availableIndexes.length > 0) {
         randomIndex = availableIndexes[Math.floor(Math.random() * availableIndexes.length)];
       }
     }
 
-    if (randomIndex !== null) {
-      setUsedIndexes((prevIndexes) => {
-        const newIndexes = [...prevIndexes, randomIndex];
-        localStorage.setItem("usedIndexes", JSON.stringify(newIndexes));
-        return newIndexes;
-      });
+    setUsedIndexes((prevIndexes) => {
+      const newIndexes = [...prevIndexes, randomIndex];
+      localStorage.setItem("usedIndexes", JSON.stringify(newIndexes));
+      return newIndexes;
+    });
 
-      setCurrentEmir(emirlerData[randomIndex]);
-    } else {
-      console.error("Random index was not assigned a value.");
-    }
+    setCurrentEmir(emirlerData[randomIndex]);
   };
+  useEffect(() => {
+    // Load usedIndexes from local storage on component mount
+    const storedIndexes = localStorage.getItem("usedIndexes");
+    if (storedIndexes) {
+      setUsedIndexes(JSON.parse(storedIndexes));
+    }
+    getRandomEmir();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
 
   return (
     <div className="App">
