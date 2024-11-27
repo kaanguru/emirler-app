@@ -1,0 +1,14 @@
+footer {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  height: 3rem;
+  margin-top: 1rem;
+  padding: 1rem;
+  border-top: 1px solid var(--primary-color);
+  border-bottom-left-radius: 6px;
+}
+.toggle-button,
+.github {
+  width: 50%;
+}

@@ -1,0 +1,90 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: #0d2b30;
+  background-color: #c5ece9;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  --primary-color: #1a535c;
+  --hover-color: #2980b9;
+  --background-light: #f7fff7;
+  --text-color: #2c3e50;
+  --card-background: #fffceb;
+  --border-hover: #646cff;
+}
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.App {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--background-light);
+  padding: 20px;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+@media (prefers-color-scheme: light) {
+  [data-theme="light"] {
+    :root,
+    .App,
+    footer,
+    a {
+      color: #213547;
+      background-color: #f7fff7;
+    }
+  }
+  [data-theme="dark"] {
+    :root,
+    .App,
+    footer {
+      color: #eceff1;
+      background-color: #1a2027;
+    }
+    img {
+      filter: invert(1);
+      filter: invert(1) blur(0.1px);
+    }
+
+    a {
+      color: var(--hover-color);
+    }
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  [data-theme="dark"] {
+    :root,
+    .App,
+    footer {
+      color: #eceff1;
+      background-color: #1a2027;
+    }
+    img {
+      filter: invert(1);
+      filter: invert(1) blur(0.1px);
+    }
+    a {
+      color: var(--hover-color);
+    }
+  }
+}
