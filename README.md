@@ -14,3 +14,5 @@ Proje verileri
 - [x] Mobil kurulum
 - [x] PWA
 - [x] Tüm platformlara destek
+- [x] Çevrimdışı kullanım
+- [x] Boşluk kullanarak değiştirme

@@ -3,8 +3,8 @@
   flex-direction: column;
   flex-wrap: nowrap;
   align-items: center;
-  height: 100vh;
   justify-content: space-evenly;
+  min-height: 95vh;
 }
 .emir-card {
   background-color: var(--card-background);
