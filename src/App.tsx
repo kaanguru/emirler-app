@@ -48,13 +48,13 @@ function App() {
     <div className="App">
       <div className="container">
         <img src="/pwa-192x192.png" alt="Kuran'dan Emirler Logo" />
-        <p>Kuran'daki Emir ve Yasaklar</p>
         <div onClick={() => getRandomEmir()}>
           {currentEmir && <EmirCard emir={currentEmir} />}
           <button className="random-button">
             <i className="fa-solid fa-shuffle fa-xl"></i>
           </button>
         </div>
+        <p>Kuran'daki Emir ve Yasaklar</p>
         <Footer />
       </div>
     </div>
