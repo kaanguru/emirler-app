@@ -4,6 +4,10 @@
 
 - Karşınıza çıkan ayetler tüm 206 emiri görünceye kadar tekrarlanmaz.
 
+
+![logo](kurandan-emirler_logo.png)
+
+
 **206 Emir içerir.**
 
 [json dosyası](src/kurandaki-emirler.json)
